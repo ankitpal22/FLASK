@@ -1,0 +1,18 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/blog",
+        "prod_uri":"mysql://root:@localhost/blog",
+        "fb_url":"https://www.facebook.com/profile.php?id=61568435919726",
+        "ig_url":"https://www.instagram.com/ankit.px",
+        "gh_url":"https://github.com/ankitpal22",
+        "gmail-user":"ankitpal.oct@gmail.com",
+        "gmail-password":"mjurahcynzeiizfm",
+        "about_text":"Hi, I'm Ankit and I'm BE CSE graduate, and I'm learning Flask",
+        "no_of_posts":2,
+        "admin_user":"ankit",
+        "admin_password":"flask",
+        "upload_location":"D:\\Documents\\Desktop\\EXTRA\\FLASK\\static"
+    }
+}
